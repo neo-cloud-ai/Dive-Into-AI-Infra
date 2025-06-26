@@ -1,0 +1,46 @@
+# Summary
+
+- [前言](preface.md)
+
+## 第一部分：基石与全景 (Foundation & Landscape)
+- [第1章：AI基础设施导论 (Introduction to AI Infrastructure)](part1/ch1.md)
+  - [1.1 定义与范畴：什么是AI Infra？）](part1/ch1/section1.md)
+  - [1.2 AI Infra的价值：为什么它是AI发展的关键瓶颈与驱动力？（加速创新、降低成本、提升效率、保障可靠性）](part1/ch1/section2.md)
+  - [1.3 AI工作负载的独特挑战：计算密集型、数据密集型、通信密集型、动态性、异构性、规模性](part1/ch1/section3.md)
+  - [1.4 本书结构概览与学习路径](part1/ch1/section4.md)
+- [第2章：计算基础设施](part1/ch2.md)
+  - [2.1 从单机到分布式：算力需求的爆炸式增长](part1/ch2/section1.md)
+  - [2.2 硬件驱动：CPU -> GPU -> TPU/ASIC -> 异构计算、存算一体](part1/ch2/section2.md)
+  - [2.3 软件栈演进：从手工脚本到Kubernetes、Ray等统一资源管理与调度框架](part1/ch2/section3.md)
+  - [2.4 数据流水线革命：批处理 -> 流处理 -> 特征工程平台 -> 向量数据库](part1/ch2/section4.md)
+  - [2.5 模型开发生命周期管理（MLOps）的兴起](part1/ch2/section5.md)
+  - [2.6 开源生态的繁荣与标准化努力（ONNX, MLPerf）](part1/ch2/section6.md)
+- [第3章：存储系统](part1/ch3.md)
+  - [3.1 核心玩家分类：芯片厂商（NVIDIA, Intel, AMD, 初创公司）、云服务商（AWS, Azure, GCP, 阿里云等）、独立软件开发商/开源项目、企业用户](part1/ch3/section1.md)
+  - [3.2 关键开源项目图谱：计算框架、调度编排、数据处理、模型仓库、监控运维、网络加速等](part1/ch3/section2.md)
+  - [3.3 商业解决方案概览：云AI平台、企业级AI解决方案套件、托管服务](part1/ch3/section3.md)
+  - [3.4 标准组织与基准测试（MLPerf, SPEC）的作用](part1/ch3/section4.md)
+  - [3.5 投资趋势与市场格局分析](part1/ch3/section5.md)
+
+## 第二部分：系统设计与优化 (System Design & Optimization)
+- [第4章：分布式训练](part2/ch4.md)
+- [第5章：推理服务](part2/ch5.md)
+- [第6章：资源管理与调度](part2/ch6.md)
+
+## 第三部分：运维与最佳实践 (Operations & Best Practices)
+- [第7章：监控与可观测性](part3/ch7.md)
+- [第8章：数据流水线](part3/ch8.md)
+- [第9章：安全与合规](part3/ch9.md)
+- [第10章：容灾与高可用](part3/ch10.md)
+
+## 第四部分：生态、市场与未来 (Ecosystem, Market & Future)
+- [第11章：开源生态与协作](part4/ch11.md)
+- [第12章：市场格局与商业模式](part4/ch12.md)
+- [第13章：挑战与未来趋势](part4/ch13.md)
+
+## 附录
+- [附录A：关键术语表 (Glossary)](./appendix/glossary.md)
+- [附录B：主流开源项目速查表（功能、官网、GitHub链接）(Open Source Projects)](./appendix/open-source-projects.md)
+- [附录C：常用工具与命令参考 (References)](./appendix/references.md)
+- [附录D：性能基准测试数据解读 (Benchmark Data Interpretation)](./appendix/benchmark.md)
+- [附录E：推荐学习资源（书籍、论文、博客、课程、会议）(Recommended Learning Resources)](./appendix/resources.md)
