@@ -1,6 +1,12 @@
 # 《Dive Into AI Infra》
 深入解析AI Infra：计算、存储、网络的架构、生态与未来
 
+## 关注公众号
+
+关注我们的微信公众号，获取更多AI前沿：
+
+![微信公众号](theme/qrcode.jpg)
+
 ## 许可证
 
 本项目采用 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](LICENSE) 进行许可。
